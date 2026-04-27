@@ -24,6 +24,7 @@ const Navbar = () => {
   href="https://wa.me/56996825756?text=Hola%20Entretenciones%20Sofi!%20Quiero%20consultar%20por%20la%20disponibilidad%20de%20juegos%20para%20un%20evento." 
   target="_blank" 
   rel="noreferrer"
+  className="hidden md:block"
 >
   <Button variant="hero" size="default">
     Cotizar ahora
