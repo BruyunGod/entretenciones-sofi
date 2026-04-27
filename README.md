@@ -1,2 +1,3 @@
-# entretenciones-sofi
-Pagina para juegos inflables. Algo simple.
+# Welcome to your Lovable project
+
+TODO: Document your project here
